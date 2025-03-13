@@ -1,63 +1,20 @@
-from models.department import Department
-from models.employee import Employee
+
+str = ["worlcde", "apple,bat,cat,goodbye,hello,yellow,why,world"]
+
+def character_removal(str):
+    
+            
+
+    
+        
+
+# [cha    r for char in str[1] if char ]
+        
+        
+        
+        
 
 
-def exit_program():
-    print("Goodbye!")
-    exit()
 
-# We'll implement the department functions in this lesson
-
-
-def list_departments():
-    pass
-
-
-def find_department_by_name():
-    pass
-
-
-def find_department_by_id():
-    pass
-
-
-def create_department():
-    pass
-
-
-def update_department():
-    pass
-
-
-def delete_department():
-    pass
-
-
-# You'll implement the employee functions in the lab
-
-def list_employees():
-    pass
-
-
-def find_employee_by_name():
-    pass
-
-
-def find_employee_by_id():
-    pass
-
-
-def create_employee():
-    pass
-
-
-def update_employee():
-    pass
-
-
-def delete_employee():
-    pass
-
-
-def list_department_employees():
-    pass
+        
+character_removal(str)
